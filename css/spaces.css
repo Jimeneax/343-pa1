@@ -1,0 +1,51 @@
+/* spaces.css -- Controlling the spacing for project 1
+ * author: Alberto Jimenez
+ */
+ body {
+    font-family: sans-serif;
+    margin: 12;
+    padding: auto;
+    vertical-align: baseline;
+    width: 90%;
+ }
+
+img {
+    justify-content: center;
+    align-items: center;
+    width: 200;
+    height: 200;
+}
+
+header{
+    font-family: sans-serif;
+    margin: 12px;
+    padding: 10px;
+    vertical-align: baseline;
+    width: 95%;
+}
+
+h1{
+    font-family: sans-serif;
+    margin: 12px;
+    padding: 10px;
+    vertical-align: baseline;
+    max-width: 800%;
+}
+
+p{
+    font-family: sans-serif;
+    margin: 12px;
+    padding: 10px;
+    vertical-align: top;
+    width: 95%;
+}
+
+nav{
+    font-family: sans-serif;
+    margin: 12px;
+    padding: 0px;
+    vertical-align: baseline;
+    width: 10%;
+}
+
+
